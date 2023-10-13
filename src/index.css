@@ -1,6 +1,7 @@
 body {
-  margin: 8px;
+  margin: 0;
   font-family: 'Cabin', sans-serif !important;
+  background-color: #f6edd4;
 }
 
 code {
@@ -9,8 +10,8 @@ code {
 }
 
 :root {
-  --main-color: #f47c18;
-  --main-bg-color: #f8ebe8;
+  --main-color: #ff5e6c;
+  --main-bg-color: #edf0ec;
 }
 
 

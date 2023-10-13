@@ -30,11 +30,12 @@
     color: var(--main-color);
     padding: 3px 10px;
     font-size: 13px;
+    margin-top: 15px;
 }
 
 .readmore {
     background-color: var(--main-color);
-    color: white;
+    color: rgb(236, 226, 226);
 }
 
 .readmore:hover {
@@ -43,10 +44,14 @@
 }
 
 .ingredients:hover {
-    background-color: var(--main-color);
+    background-color: #ffaaab;
     color: white;
 }
 
+.favorite:hover{
+    background-color: #ffaaab;
+    color: white;
+}
 /* Styles for mobile screens */
 @media (max-width: 768px) {
     .card-box{

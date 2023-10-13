@@ -1,5 +1,5 @@
 #searchBar::placeholder {
-    color: var(--main-color);
+    color: #383535;
     font-family: Arial, FontAwesome;
 }
 
@@ -9,7 +9,7 @@
     margin: 10px auto;
     display: block;
     padding: 11px 31px;
-    background-color: var(--main-bg-color);
+    background-color: #f39999;
     /* width: 600px; */
     width: 45%;
     margin-top: 20px;
